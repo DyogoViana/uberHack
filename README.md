@@ -1,10 +1,6 @@
 # UberHack - Projeto: Rodeasy
 
-<div align="center">
-	<img width="100" src="src/assets/icon/logo.png" alt="Awesome">
-    <br>
-    ![logo](https://user-images.githubusercontent.com/16628382/58907826-6f08ef00-86e5-11e9-8e52-630cc26a19e9.png)
-</div>
+![logo](https://user-images.githubusercontent.com/16628382/58907826-6f08ef00-86e5-11e9-8e52-630cc26a19e9.png)
 
 ## O Evento
 
