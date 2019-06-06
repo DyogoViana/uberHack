@@ -1,23 +1,7 @@
-# UberHack - Projeto: Rodeasy
-
-![logo](https://user-images.githubusercontent.com/16628382/58907826-6f08ef00-86e5-11e9-8e52-630cc26a19e9.png)
-
-## O Evento
-
-O Uber HACK - O Hackathon da Mobilidade é a primeira edição de um desafio nacional que vai buscar soluções de mobilidade para tentar resolver o quebra-cabeça que é o trânsito das nossas cidades. Convidamos a comunidade apaixonada por tecnologia a criar ou repensar projetos urbanos de mobilidade a partir de modelos que podem, inclusive, estar integrados ao aplicativo da Uber. 
+![uberHack----Mockup](https://user-images.githubusercontent.com/16628382/59066918-8a5f3000-8886-11e9-8963-e1e6ec245f0f.jpg)
 
 https://www.uber.com/info/uberhack/sobre/
 
-## O Projeto
-
-Projeto desenvolvido durante o UberHack, hackaton que ocorreu nos dias 19 e 20 de Maio de 2018.
-
-A solução propõe a união de pessoas que percorrem o mesmo caminho frequentemente e de carro para realizar um rodízio: cada motorista leva outros 4 num dia diferente da semana. O objetivo maior é a diminuição de veículos nas vias.
-
-<div align="center">
-	<img width="200" src="fluxo-cadastro.gif" alt="Awesome">
-    <img width="198" src="gif-fluxo2.gif" alt="Awesome">
-</div>
 
 ## O Time
 
